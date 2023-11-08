@@ -47,7 +47,7 @@ Happy coding! 🚀
 
 This image illustrates various text sizes, colors, and thickness options in Tailwind CSS.
 <div style="center">
- <img src="tailwindcssText.jpg" width="300px">
+ <img src="tailwindcssText.jpg" width="500px">
 </div>
 
 ---
@@ -56,7 +56,7 @@ This image illustrates various text sizes, colors, and thickness options in Tail
 
 This image showcases the Spacing tools for Tailwind CSS .
 <div style="center">
- <img src="tailwindcssSpacing.jpg" width="300px">
+ <img src="tailwindcssSpacing.jpg" width="500px">
 </div>
 
 ---
